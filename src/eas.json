@@ -1,0 +1,28 @@
+{
+  "cli": {
+    "version": ">= 0.52.0"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal"
+    },
+    "preview": {
+      "ios": {
+        "simulator": true
+      },
+      "distribution": "internal",
+      "env": {
+        "GOOGLE_API_KEY": "YOUR_GOOGLE_MAPS_API_KEY_HERE"
+      }
+    },
+    "production": {
+      "env": {
+        "GOOGLE_API_KEY": "YOUR_GOOGLE_MAPS_API_KEY_HERE"
+      }
+    }
+  },
+  "submit": {
+    "production": {}
+  }
+}
