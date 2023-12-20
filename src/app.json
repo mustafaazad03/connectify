@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "Prana.io",
-    "description": "Cross-platform mobile application for travel & geolocation documentation",
-    "slug": "prana-app",
+    "name": "connectify",
+    "description": "Cross-platform mobile application connecting and finding events",
+    "slug": "connectify-app",
     "privacy": "public",
     "version": "0.1.2",
     "plugins": [
       [
         "expo-image-picker",
         {
-          "photosPermission": "Allow Prana to access your photos to add to locations."
+          "photosPermission": "Allow connectify to access your photos to add to locations."
         }
       ]
     ],

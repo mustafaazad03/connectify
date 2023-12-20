@@ -68,7 +68,7 @@ const LocationsListScreen = (props) => {
 
   return (
     <View style={{ flex: 1, backgroundColor: Colors.backgroundColor }}>
-      <Text style={styles.prana}>Prana.io</Text>
+      <Text style={styles.prana}>Connectify</Text>
       {locations.length > 0 ? (
         <FlatList
           data={locations}
