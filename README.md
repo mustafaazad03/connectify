@@ -1,21 +1,13 @@
 <div align="center">
 
-<img src="https://d117h1jjiq768j.cloudfront.net/images/default-source/blogs/2019/2019-10/the-react-native-sdk-for-kinvey-is-now-available_870_450.png?sfvrsn=296e1008_0" height="175" alt="React Native">
+<img src="https://images.unsplash.com/photo-1527631746610-bca00a040d60?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" height="175" alt="React Native">
 
-# Prana.io
+# Connectify
 
 Cross-platform mobile application for travel and geolocation documentation
 
 </div>
 
-<p align="center">
-  <a href="https://www.npmjs.org/package/react-native">
-    <img src="https://img.shields.io/npm/v/react-native?color=brightgreen&label=npm%20package" alt="Current npm package version." />
-  </a>
-  <a href="https://reactnative.dev/docs/contributing">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
-  </a>
-</p>
 
 ---
 
@@ -23,12 +15,7 @@ Cross-platform mobile application for travel and geolocation documentation
 
 This app is currently in beta testing for version 0.1.2
 
-### iOS
-
-- A free download of the app is available via [Apple TestFlight](https://developer.apple.com/testflight/)
-- Visit the public link on your iOS device to download: https://testflight.apple.com/join/JDZDY79Y
-
-### Android
+### Android / IOS
 
 - Awaiting review from Google Play
 
