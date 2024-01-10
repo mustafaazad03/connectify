@@ -25,9 +25,9 @@ This app is currently in beta testing for version 0.1.2
 | :-----------------------------------------------: | :----------------------------------------------------: |
 | <img src="./src/public/splash.jpeg" width="230"/> | <img src="./src/public/newLocation.jpeg" width="230"/> |
 
-|                     Saved Locations                     |                      Location Detail                      |
+|                                          |                      Location Detail                      |
 | :-----------------------------------------------------: | :-------------------------------------------------------: |
-| <img src="./src/public/locationList.jpeg" width="230"/> | <img src="./src/public/locationDetail.jpeg" width="230"/> |
+| | <img src="./src/public/locationDetail.jpeg" width="230"/> |
 
 ---
 
